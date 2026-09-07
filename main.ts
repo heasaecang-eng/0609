@@ -5,5 +5,5 @@ input.onButtonPressed(Button.B, function () {
     basic.showString("06/09/2009")
 })
 input.onGesture(Gesture.Shake, function () {
-    basic.showString("HAPPY BIRTHDAY!")
+    basic.showString("HBD!")
 })
